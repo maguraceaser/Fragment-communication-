@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="myfragone" type="id" />
+    <item name="myfragtwo" type="id" />
+    <item name="secondtext" type="id" />
+    <item name="btntwo" type="id" />
+</resources>
